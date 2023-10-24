@@ -1,0 +1,4 @@
+spacy==2.2.3
+nltk==3.5
+sklearn
+tqdm
